@@ -4,5 +4,6 @@
   "main": "src/jquery.mixitup.js",
   "dependencies": {
     "jquery": ">=1.7"
-  }
+  },
+  "ignore":{}
 }
